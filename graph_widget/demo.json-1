@@ -1,0 +1,411 @@
+[
+    {
+        "id": "112100",
+        "key": "r4",
+        "name": "Prof Mehul Dattani",
+        "relationships": [
+            {
+                "key": "g6",
+                "type": "link"
+            },
+            {
+                "key": "g7",
+                "type": "link"
+            },
+            {
+                "key": "g8",
+                "type": "link"
+            },
+            {
+                "key": "g9",
+                "type": "link"
+            },
+            {
+                "key": "g10",
+                "type": "link"
+            }
+        ],
+        "type": "Researcher"
+    },
+    {
+        "id": "112079",
+        "key": "p3",
+        "name": "Data from: Genomic collinearity and the genetic architecture of floral differences between the homoploid hybrid species I. nelsonii and one of its progenitors I. hexagona",
+        "type": "Publication"
+    },
+    {
+        "id": "112087",
+        "key": "g1",
+        "name": "Terrestrial Ecosystem Research Network (NCRIS and EIF Capability)",
+        "relationships": [
+            {
+                "key": "r5",
+                "type": "link"
+            },
+            {
+                "key": "r6",
+                "type": "link"
+            },
+            {
+                "key": "r7",
+                "type": "link"
+            },
+            {
+                "key": "r8",
+                "type": "link"
+            },
+            {
+                "key": "r9",
+                "type": "link"
+            },
+            {
+                "key": "r10",
+                "type": "link"
+            }
+        ],
+        "type": "Grant"
+    },
+    {
+        "id": "112086",
+        "key": "p10",
+        "name": "Data from: Non-genomic transmission of paternal behavior between fathers and sons in the monogamous and biparental California mouse",
+        "type": "Publication"
+    },
+    {
+        "id": "112116",
+        "key": "d10",
+        "name": "doi:10.5061/dryad.vh151q1c/17",
+        "type": "Dataset"
+    },
+    {
+        "id": "112089",
+        "key": "g3",
+        "name": " \"Allergen mimotopes",
+        "type": "Grant"
+    },
+    {
+        "id": "112088",
+        "key": "g2",
+        "name": "IRIISS-2011",
+        "type": "Grant"
+    },
+    {
+        "id": "112114",
+        "key": "d8",
+        "name": "doi:10.5061/dryad.75nv22qj/5",
+        "type": "Dataset"
+    },
+    {
+        "id": "112083",
+        "key": "p7",
+        "name": "Data from: Footprints of divergent selection in natural populations of Castanopsis fargesii (Fagaceae)",
+        "type": "Publication"
+    },
+    {
+        "id": "112115",
+        "key": "d9",
+        "name": "doi:10.5061/dryad.r5rh1/2",
+        "relationships": [
+            {
+                "key": "r1",
+                "type": "link"
+            },
+            {
+                "key": "r2",
+                "type": "link"
+            },
+            {
+                "key": "d10",
+                "type": "link"
+            }
+        ],
+        "type": "Dataset"
+    },
+    {
+        "id": "112082",
+        "key": "p6",
+        "name": "Data from: Phenotypic assortment mediates the effect of social selection in a wild beetle population",
+        "type": "Publication"
+    },
+    {
+        "id": "112112",
+        "key": "d6",
+        "name": "doi:10.5061/dryad.66h5g23t/2",
+        "type": "Dataset"
+    },
+    {
+        "id": "112085",
+        "key": "p9",
+        "name": "Data from: Ancient trade routes shaped the genetic structure of horses in eastern Eurasia",
+        "type": "Publication"
+    },
+    {
+        "id": "112113",
+        "key": "d7",
+        "name": "doi:10.5061/dryad.35321/12",
+        "type": "Dataset"
+    },
+    {
+        "id": "112084",
+        "key": "p8",
+        "name": "Data from: Integration of conflict into integrative taxonomy: fitting hybridization in species delimitation of Mesocarabus (Coleoptera: Carabidae)",
+        "type": "Publication"
+    },
+    {
+        "id": "112081",
+        "key": "p5",
+        "name": "Data from: Phylogenetic patterns of geographical and ecological diversification in the subgenus Drosophila",
+        "type": "Publication"
+    },
+    {
+        "id": "112080",
+        "key": "p4",
+        "name": "Data from: Geographic variation in chin shape challenges the universal facial attractiveness hypothesis",
+        "type": "Publication"
+    },
+    {
+        "id": "112111",
+        "key": "d5",
+        "name": "doi:10.5061/dryad.dk412/1",
+        "type": "Dataset"
+    },
+    {
+        "id": "112110",
+        "key": "d4",
+        "name": "doi:10.5061/dryad.1v0tb/3",
+        "type": "Dataset"
+    },
+    {
+        "id": "112101",
+        "key": "r5",
+        "name": "Dr Karlis Gross",
+        "type": "Researcher"
+    },
+    {
+        "id": "112099",
+        "key": "r3",
+        "name": "Jean Smith",
+        "relationships": [
+            {
+                "key": "p4",
+                "type": "link"
+            },
+            {
+                "key": "p5",
+                "type": "link"
+            },
+            {
+                "key": "p6",
+                "type": "link"
+            },
+            {
+                "key": "p7",
+                "type": "link"
+            },
+            {
+                "key": "p8",
+                "type": "link"
+            },
+            {
+                "key": "p9",
+                "type": "link"
+            },
+            {
+                "key": "p10",
+                "type": "link"
+            }
+        ],
+        "type": "Researcher"
+    },
+    {
+        "id": "112102",
+        "key": "r6",
+        "name": "A/Pr Martin Kluckow",
+        "type": "Researcher"
+    },
+    {
+        "id": "112098",
+        "key": "r2",
+        "name": "Michael Kramer",
+        "type": "Researcher"
+    },
+    {
+        "id": "112103",
+        "key": "r7",
+        "name": "A/Pr Anne Holland",
+        "type": "Researcher"
+    },
+    {
+        "id": "112097",
+        "key": "r1",
+        "name": "Dr Katja Fischer",
+        "type": "Researcher"
+    },
+    {
+        "id": "112104",
+        "key": "r8",
+        "name": "A/Pr Richard Woodman",
+        "type": "Researcher"
+    },
+    {
+        "id": "112096",
+        "key": "g10",
+        "name": "Portable microwave systems for imaging and monitoring of the human body",
+        "type": "Grant"
+    },
+    {
+        "id": "112078",
+        "key": "p2",
+        "name": "Data from: Frugivores and cheap fruits make fruiting fruitful",
+        "type": "Publication"
+    },
+    {
+        "id": "112105",
+        "key": "r9",
+        "name": "Dr John Phelps",
+        "type": "Researcher"
+    },
+    {
+        "id": "112095",
+        "key": "g9",
+        "name": "Characterisation of the variant antigens of malaria parasites",
+        "type": "Grant"
+    },
+    {
+        "id": "112077",
+        "key": "p1",
+        "name": "Data from: Genetic basis of adaptation in Arabidopsis thaliana: local adaptation at the seed dormancy QTL DOG1",
+        "type": "Publication"
+    },
+    {
+        "id": "112106",
+        "key": "r10",
+        "name": "Prof Marc Cohen",
+        "type": "Researcher"
+    },
+    {
+        "id": "112094",
+        "key": "g8",
+        "name": "Argo float : a platform of the IMOS Argo Australia Facility",
+        "type": "Grant"
+    },
+    {
+        "extra": "root",
+        "id": "112107",
+        "key": "d1",
+        "name": "doi:10.5061/dryad.mt5b2/1",
+        "relationships": [
+            {
+                "key": "g1",
+                "type": "link"
+            },
+            {
+                "key": "g2",
+                "type": "link"
+            },
+            {
+                "key": "g3",
+                "type": "link"
+            },
+            {
+                "key": "g4",
+                "type": "link"
+            },
+            {
+                "key": "g5",
+                "type": "link"
+            },
+            {
+                "key": "r3",
+                "type": "link"
+            },
+            {
+                "key": "r4",
+                "type": "link"
+            },
+            {
+                "key": "d9",
+                "type": "link"
+            }
+        ],
+        "type": "Dataset"
+    },
+    {
+        "id": "112093",
+        "key": "g7",
+        "name": "IOCI3 Theme 3 - C2006/4983",
+        "type": "Grant"
+    },
+    {
+        "id": "112108",
+        "key": "d2",
+        "name": "doi:10.5061/dryad.jp13f",
+        "type": "Dataset"
+    },
+    {
+        "id": "112092",
+        "key": "g6",
+        "name": "Climate change impacts on tropical rainforest biodiversity",
+        "type": "Grant"
+    },
+    {
+        "id": "112109",
+        "key": "d3",
+        "name": "doi:10.5061/dryad.1c88s/1",
+        "type": "Dataset"
+    },
+    {
+        "id": "112091",
+        "key": "g5",
+        "name": "Underway sensors: Enhanced measurements from Ships of Opportunity (SOOP): RV Cape Ferguson",
+        "type": "Grant"
+    },
+    {
+        "id": "112090",
+        "key": "g4",
+        "name": "Achieving optimal anticoagulation to improve quality ofcare for patients receiving warfarin in first 5 mnths of treatme",
+        "relationships": [
+            {
+                "key": "p1",
+                "type": "link"
+            },
+            {
+                "key": "p2",
+                "type": "link"
+            },
+            {
+                "key": "p3",
+                "type": "link"
+            },
+            {
+                "key": "d2",
+                "type": "link"
+            },
+            {
+                "key": "d3",
+                "type": "link"
+            },
+            {
+                "key": "d4",
+                "type": "link"
+            },
+            {
+                "key": "d5",
+                "type": "link"
+            },
+            {
+                "key": "d6",
+                "type": "link"
+            },
+            {
+                "key": "d7",
+                "type": "link"
+            },
+            {
+                "key": "d8",
+                "type": "link"
+            }
+        ],
+        "type": "Grant"
+    }
+]
